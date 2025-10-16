@@ -1,0 +1,8 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore the masks folder created by the script
+masks/
+
+# Ignore the large model file (it will be downloaded by setup.sh)
+sam_vit_b.pth
